@@ -19,7 +19,7 @@ const Homepage = () => {
   return (
     <>
       <Title level={2} className="heading">
-        Crypto OG
+        Global Crypto Stats
       </Title>
       <Row gutter={[32, 32]}>
         <Col span={12}>
